@@ -2,6 +2,9 @@
 The following project aims at detecting the fraudulent credit card transactions from the simulated data avilable on kaggle.
 _95.57% Accuracy with 94% Recall and 0.98 AUC_
 
+# Reference
+http://machinelearningmastery.com/
+
 # _Learning Objectives_
 1. Feature Selection and Importance.
 2. Cross Validation application (KFold).
